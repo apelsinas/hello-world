@@ -1,2 +1,2 @@
-# hello-world
-just another repo
+Updated version of readme file.
+Some info goes here.
